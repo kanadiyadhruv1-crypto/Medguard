@@ -1,0 +1,8 @@
+{
+  "name": "MedGuard: Doctor Safety Network",
+  "description": "A secure platform for healthcare professionals to report patient behavior, share safety alerts, and connect with a vetted medical community.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
